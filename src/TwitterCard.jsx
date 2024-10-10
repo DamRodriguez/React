@@ -16,7 +16,7 @@ export function TwitterCard ({children, userName, imgProfile}) {
                 <img src={imgProfile} alt={`Perfil de ${children}`} />
                 <div className='card_1_text'>
                     <p>{children}</p>
-                    <p className='text_2'>{userName}</p>
+                    <p className='text_2'>@{userName}</p>
                 </div>
             </div>
 
