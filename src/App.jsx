@@ -11,19 +11,19 @@ const users = [
     {
         userName: 'pedro123',
         name: 'Pedro Alfonso',
-        imgProfile: '../public/assets/img-profile/gato.jpeg',
+        imgProfile: '/assets/img-profile/gato.jpeg',
         isFollowing: false
     },
     {
         userName: 'juanCa90',
         name: 'Juan Carlos',
-        imgProfile: '/sapo.jpg',
+        imgProfile: '/assets/img-profile/sapo.jpg',
         isFollowing: false
     },
     {
         userName: 'hernesto4',
         name: 'Hernesto Gutierrez',
-        imgProfile: 'pato.jpg',
+        imgProfile: '/assets/img-profile/pato.jpg',
         isFollowing: true
     }
 ]
