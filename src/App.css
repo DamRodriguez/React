@@ -69,7 +69,7 @@
 }
 
 .is_following button:hover{
-    background-color: rgba(253, 72, 72, 0.253);
+    background-color: rgba(253, 72, 72, 0.105);
 }
 
 .is_following button:hover .stopFollow{
