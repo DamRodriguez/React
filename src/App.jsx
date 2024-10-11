@@ -11,7 +11,7 @@ const users = [
     {
         userName: 'pedro123',
         name: 'Pedro Alfonso',
-        imgProfile: '/img-profile/gato.jpeg',
+        imgProfile: '../public/assets/img-profile/gato.jpeg',
         isFollowing: false
     },
     {
