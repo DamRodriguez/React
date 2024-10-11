@@ -5,25 +5,25 @@ const users = [
     {
         userName: 'damrod_',
         name: 'Damián Rodríguez',
-        imgProfile: '/assets/img-profile/perro.jpeg',
+        imgProfile: '/public/assets/img-profile/perro.jpeg',
         isFollowing: true
     },
     {
         userName: 'pedro123',
         name: 'Pedro Alfonso',
-        imgProfile: '/assets/img-profile/gato.jpeg',
+        imgProfile: '/public/assets/img-profile/gato.jpeg',
         isFollowing: false
     },
     {
         userName: 'juanCa90',
         name: 'Juan Carlos',
-        imgProfile: '/assets/img-profile/sapo.jpg',
+        imgProfile: '/public/assets/img-profile/sapo.jpg',
         isFollowing: false
     },
     {
         userName: 'hernesto4',
         name: 'Hernesto Gutierrez',
-        imgProfile: '/assets/img-profile/pato.jpg',
+        imgProfile: '/public/assets/img-profile/pato.jpg',
         isFollowing: true
     }
 ]
